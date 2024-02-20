@@ -1,0 +1,42 @@
+{
+"content":[
+
+    {
+      "name":"Death Smokie",
+      "img":"death-smokie.png",
+      "information": { "strength": 100, "lives": 10 },
+      "text": "Ninja Killer dont touch him"
+    },
+    {
+      "name":"Black Scum",
+      "img":"black-alien-scum.png",
+      "information": { "strength": 90, "lives": 5 },
+      "text": "Black Scum is a Ninja Killer"
+    },
+    {
+      "name":"Ping Pang",
+      "img":"angry-ping.png",
+      "information": { "strength": 80, "lives": 4 },
+      "text": "Just som penguin Shit"
+    },
+    {
+      "name":"Good Guy",
+      "img":"Bionicle_good_guy.jpg",
+      "information": { "strength": 110, "lives": 6 },
+      "text": "Just some bionicle"
+    },
+    {
+      "name":"Eiden",
+      "img":"Tchortist_Eidein.png",
+      "information": { "strength": 120, "lives": 1 },
+      "text": "Head of university of Tchort"
+    },
+    {
+      "name":"Avatar dude",
+      "img":"Bad_crop.jpg",
+      "information": { "strength": 85, "lives": 1.2 },
+      "text": "Just some dude"
+    }
+]
+
+}
